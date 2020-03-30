@@ -12,3 +12,5 @@ Puntos:
 -Sonidos
 -Level BP
 -IA
+
+-También consta de menú de muerte, de pausa, de inicio y un animation BluePrint nuevo
