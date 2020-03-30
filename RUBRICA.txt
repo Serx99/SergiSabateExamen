@@ -1,0 +1,14 @@
+P--> Menu Pausa
+U--> Bajar vida
+I--> Subir vida
+R--> Restart
+
+Puntos:
+-Terrain
+-Entradas nuevas de Input
+-Triggers
+-Iluminación
+-HUD
+-Sonidos
+-Level BP
+-IA
